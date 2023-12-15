@@ -1,19 +1,19 @@
-![logo](https://github.com/ojuskumar/ojuskumar/blob/main/Ojus%20kumar.png) 
+
 <h1 align="center">Hi 👋, I'm Amit kumar</h1>
 <h3 align="center">A Committed Data Analyst,Full Stack Web Dev Engineer from India</h3>
 <img align="right" alt="coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ojuskumar&label=Profile%20views&color=0e75b6&style=flat" alt="ojuskumar" /> </p>
 
-- 🔭 I’m currently working on Backend Development **Ecommmerce website**
+- 🔭 I’m currently working on **ArcGis and Remote Sensing**
 
-- 🌱 I’m currently learning **Dev ops**
+- 🌱 I’m currently learning **Data Analytics**
 
-- 💬 Ask me about **anything that makes you curious**
+- 💬 Ask me about **anything that you want**
 
-- 📫 How to reach me **okeletter@gmail.com**
+- 📫 How to reach me **iamitkumar2812@gmail.com**
 
-- ⚡ Fun fact **Book worm**
+- ⚡ Fun fact **U19 National Level Shuttler,U16 State Level Cricketer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
